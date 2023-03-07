@@ -1,13 +1,14 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+### Descrição
+Este projeto foi desenvolvido durante o módulo Back-end na [Trybe](https://www.betrybe.com/). Nele foi disponibilizada uma aplicação full-stack dividida em Back-end, Front-end e teste. Este último validando se Back-end e Front-end estavam corretamente conectados.   
+A aplicação to-do list possui seu próprio README.md, que foi utilizado como referência durante o desenvolvimento do projeto.   
+O desafio foi criar imagens para cada parte da aplicação e configurá-las usando um arquivo docker-compose.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
-
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+### Tecnologias e Ferramentas
+Este projeto foi desenvolvido utilizando Docker.
+- Comandos na Interface de Linha de Comando (CLI) do Docker;
+- Dockerfile;
+- Docker-compose.
+<br>
+<img src="https://user-images.githubusercontent.com/96205316/185253359-6d9ea996-b398-43d0-bd75-bcbef416bcf3.png" width="100" alt="docker-icon"/>
+<br>
+O Docker é uma plataforma aberta para desenvolver, enviar e executar aplicativos por meio da conteinerização, permitindo que eles sejam isolados. O Docker-compose configura o contêiner de cada aplicativo e permite que eles sejam conectados.
